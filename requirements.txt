@@ -1,7 +1,9 @@
 streamlit
 langchain
+langchain-community
 langchain-openai
 langchain-qdrant
+langchain-text-splitters
 qdrant-client
 pypdf
 python-dotenv
